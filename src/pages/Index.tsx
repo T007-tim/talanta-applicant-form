@@ -137,9 +137,9 @@ const Index = () => {
       <footer className="border-t border-border py-12">
         <div className="container mx-auto flex flex-col items-center justify-between gap-4 px-6 md:flex-row">
           <span className="font-display text-lg font-bold text-foreground">
-            Talent<span className="text-gradient">Hub</span>
+            Talanta<span className="text-gradient">Hub</span>
           </span>
-          <p className="text-sm text-muted-foreground">© 2026 TalentHub. All rights reserved.</p>
+          <p className="text-sm text-muted-foreground">© 2026 TalantaHub. All rights reserved.</p>
         </div>
       </footer>
     </div>
