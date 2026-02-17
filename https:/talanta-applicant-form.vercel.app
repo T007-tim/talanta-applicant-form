@@ -26,4 +26,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-ustom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+
